@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452768002 source:c:\users\samsung\desktop\aisd_programy\kopiec\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+
